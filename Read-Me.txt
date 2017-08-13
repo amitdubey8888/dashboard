@@ -1,0 +1,21 @@
+To run this project follow these steps
+
+Important!!!
+
+Internet connection is required to run this project because i have included some online links, Thanks 
+
+1. Open Folder (DASHBOARD)
+2. Copy path link Like "C:\Users\user\Desktop\dashboard" & paste it into browser
+3. Open index.html
+
+Or
+
+1. Simply open index.html in chrome browser
+
+Or
+
+I have uploaded this project on my server, you can check
+
+Visit below link
+
+https://employee-dashboard.000webhostapp.com/index.html 
